@@ -1,0 +1,14 @@
+C:\LocalProjects\BillApp\BillApp.Common\bin\Debug\netcoreapp3.1\BillApp.Common.deps.json
+C:\LocalProjects\BillApp\BillApp.Common\bin\Debug\netcoreapp3.1\BillApp.Common.dll
+C:\LocalProjects\BillApp\BillApp.Common\obj\Debug\netcoreapp3.1\BillApp.Common.AssemblyInfoInputs.cache
+C:\LocalProjects\BillApp\BillApp.Common\obj\Debug\netcoreapp3.1\BillApp.Common.AssemblyInfo.cs
+C:\LocalProjects\BillApp\BillApp.Common\bin\Debug\netcoreapp3.1\BillApp.Common.pdb
+C:\LocalProjects\BillApp\BillApp.Common\bin\Debug\netcoreapp3.1\BillApp.Dto.dll
+C:\LocalProjects\BillApp\BillApp.Common\bin\Debug\netcoreapp3.1\BillApp.Entity.dll
+C:\LocalProjects\BillApp\BillApp.Common\bin\Debug\netcoreapp3.1\BillApp.Dto.pdb
+C:\LocalProjects\BillApp\BillApp.Common\bin\Debug\netcoreapp3.1\BillApp.Entity.pdb
+C:\LocalProjects\BillApp\BillApp.Common\obj\Debug\netcoreapp3.1\BillApp.Common.csprojAssemblyReference.cache
+C:\LocalProjects\BillApp\BillApp.Common\obj\Debug\netcoreapp3.1\BillApp.Common.csproj.CoreCompileInputs.cache
+C:\LocalProjects\BillApp\BillApp.Common\obj\Debug\netcoreapp3.1\BillApp.Common.csproj.CopyComplete
+C:\LocalProjects\BillApp\BillApp.Common\obj\Debug\netcoreapp3.1\BillApp.Common.dll
+C:\LocalProjects\BillApp\BillApp.Common\obj\Debug\netcoreapp3.1\BillApp.Common.pdb

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BillApp.Data\BillApp.Data.csproj" />
+    <ProjectReference Include="..\BillApp.Entity\BillApp.Entity.csproj" />
+    <ProjectReference Include="..\BillApp.Repository\BillApp.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

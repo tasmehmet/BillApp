@@ -1,0 +1,12 @@
+C:\LocalProjects\BillApp\BillApp.Validation\bin\Debug\netcoreapp3.1\BillApp.Validation.deps.json
+C:\LocalProjects\BillApp\BillApp.Validation\bin\Debug\netcoreapp3.1\BillApp.Validation.dll
+C:\LocalProjects\BillApp\BillApp.Validation\obj\Debug\netcoreapp3.1\BillApp.Validation.csprojAssemblyReference.cache
+C:\LocalProjects\BillApp\BillApp.Validation\obj\Debug\netcoreapp3.1\BillApp.Validation.AssemblyInfoInputs.cache
+C:\LocalProjects\BillApp\BillApp.Validation\obj\Debug\netcoreapp3.1\BillApp.Validation.AssemblyInfo.cs
+C:\LocalProjects\BillApp\BillApp.Validation\bin\Debug\netcoreapp3.1\BillApp.Validation.pdb
+C:\LocalProjects\BillApp\BillApp.Validation\bin\Debug\netcoreapp3.1\BillApp.Dto.dll
+C:\LocalProjects\BillApp\BillApp.Validation\bin\Debug\netcoreapp3.1\BillApp.Dto.pdb
+C:\LocalProjects\BillApp\BillApp.Validation\obj\Debug\netcoreapp3.1\BillApp.Validation.csproj.CoreCompileInputs.cache
+C:\LocalProjects\BillApp\BillApp.Validation\obj\Debug\netcoreapp3.1\BillApp.Validation.csproj.CopyComplete
+C:\LocalProjects\BillApp\BillApp.Validation\obj\Debug\netcoreapp3.1\BillApp.Validation.dll
+C:\LocalProjects\BillApp\BillApp.Validation\obj\Debug\netcoreapp3.1\BillApp.Validation.pdb

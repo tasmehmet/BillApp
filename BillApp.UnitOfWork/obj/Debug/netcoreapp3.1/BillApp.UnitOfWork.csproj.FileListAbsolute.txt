@@ -1,0 +1,16 @@
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\bin\Debug\netcoreapp3.1\BillApp.Data.dll
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\bin\Debug\netcoreapp3.1\BillApp.Entity.dll
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\bin\Debug\netcoreapp3.1\BillApp.Repository.dll
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\bin\Debug\netcoreapp3.1\BillApp.Data.pdb
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\bin\Debug\netcoreapp3.1\BillApp.Entity.pdb
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\bin\Debug\netcoreapp3.1\BillApp.Repository.pdb
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\obj\Debug\netcoreapp3.1\BillApp.UnitOfWork.AssemblyInfoInputs.cache
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\obj\Debug\netcoreapp3.1\BillApp.UnitOfWork.AssemblyInfo.cs
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\obj\Debug\netcoreapp3.1\BillApp.UnitOfWork.csproj.CopyComplete
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\bin\Debug\netcoreapp3.1\BillApp.UnitOfWork.deps.json
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\bin\Debug\netcoreapp3.1\BillApp.UnitOfWork.dll
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\bin\Debug\netcoreapp3.1\BillApp.UnitOfWork.pdb
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\obj\Debug\netcoreapp3.1\BillApp.UnitOfWork.csprojAssemblyReference.cache
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\obj\Debug\netcoreapp3.1\BillApp.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\obj\Debug\netcoreapp3.1\BillApp.UnitOfWork.dll
+C:\LocalProjects\BillApp\BillApp.UnitOfWork\obj\Debug\netcoreapp3.1\BillApp.UnitOfWork.pdb

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BillApp.Caching\BillApp.Caching.csproj" />
+    <ProjectReference Include="..\BillApp.Data\BillApp.Data.csproj" />
+    <ProjectReference Include="..\BillApp.Dto\BillApp.Dto.csproj" />
+    <ProjectReference Include="..\BillApp.Repository\BillApp.Repository.csproj" />
+    <ProjectReference Include="..\BillApp.UnitOfWork\BillApp.UnitOfWork.csproj" />
+  </ItemGroup>
+
+</Project>

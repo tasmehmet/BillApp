@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-BillApp.Web-4A6489E8-C51E-48FB-A529-DC15D2693EBF</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BillApp.Business\BillApp.Business.csproj" />
+    <ProjectReference Include="..\BillApp.Caching\BillApp.Caching.csproj" />
+    <ProjectReference Include="..\BillApp.Common\BillApp.Common.csproj" />
+    <ProjectReference Include="..\BillApp.Data\BillApp.Data.csproj" />
+    <ProjectReference Include="..\BillApp.Dto\BillApp.Dto.csproj" />
+    <ProjectReference Include="..\BillApp.IoC\BillApp.IoC.csproj" />
+    <ProjectReference Include="..\BillApp.Validation\BillApp.Validation.csproj" />
+  </ItemGroup>
+
+</Project>

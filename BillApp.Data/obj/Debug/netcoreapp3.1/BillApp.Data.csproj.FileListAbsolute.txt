@@ -1,0 +1,15 @@
+C:\LocalProjects\BillApp\BillApp.Data\obj\Debug\netcoreapp3.1\BillApp.Data.csprojAssemblyReference.cache
+C:\LocalProjects\BillApp\BillApp.Data\obj\Debug\netcoreapp3.1\BillApp.Data.AssemblyInfoInputs.cache
+C:\LocalProjects\BillApp\BillApp.Data\obj\Debug\netcoreapp3.1\BillApp.Data.AssemblyInfo.cs
+C:\LocalProjects\BillApp\BillApp.Data\obj\Debug\netcoreapp3.1\BillApp.Data.csproj.CoreCompileInputs.cache
+C:\LocalProjects\BillApp\BillApp.Data\bin\Debug\netcoreapp3.1\BillApp.Data.deps.json
+C:\LocalProjects\BillApp\BillApp.Data\bin\Debug\netcoreapp3.1\BillApp.Data.runtimeconfig.json
+C:\LocalProjects\BillApp\BillApp.Data\bin\Debug\netcoreapp3.1\BillApp.Data.runtimeconfig.dev.json
+C:\LocalProjects\BillApp\BillApp.Data\bin\Debug\netcoreapp3.1\BillApp.Data.dll
+C:\LocalProjects\BillApp\BillApp.Data\bin\Debug\netcoreapp3.1\BillApp.Data.pdb
+C:\LocalProjects\BillApp\BillApp.Data\obj\Debug\netcoreapp3.1\BillApp.Data.dll
+C:\LocalProjects\BillApp\BillApp.Data\obj\Debug\netcoreapp3.1\BillApp.Data.pdb
+C:\LocalProjects\BillApp\BillApp.Data\obj\Debug\netcoreapp3.1\BillApp.Data.genruntimeconfig.cache
+C:\LocalProjects\BillApp\BillApp.Data\bin\Debug\netcoreapp3.1\BillApp.Entity.dll
+C:\LocalProjects\BillApp\BillApp.Data\bin\Debug\netcoreapp3.1\BillApp.Entity.pdb
+C:\LocalProjects\BillApp\BillApp.Data\obj\Debug\netcoreapp3.1\BillApp.Data.csproj.CopyComplete
